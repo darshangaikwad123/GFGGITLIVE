@@ -15,4 +15,4 @@
 13.batch repo =====> fork =====> copy of batch repo your account
 14. ||
     ||
-    git clone
+    git clone.
