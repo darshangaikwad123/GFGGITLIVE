@@ -12,4 +12,5 @@
 10.git push -u origin master :- upsteram
 11.git clone [url] clone any remote repo
 12.git pull if any changes in cloud this changes take in your local system then used git pull
-13.
+13.batch repo =====> fork =====> copy of batch repo
+14.
